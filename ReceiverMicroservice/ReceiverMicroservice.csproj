@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+    <PackageReference Include="Microsoft.Azure.ServiceBus" Version="5.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Microsoft.Azure.ServiceBus" />
+    <None Remove="Controllers\" />
+    <None Remove="Service\" />
+    <None Remove="Model\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+    <Folder Include="Service\" />
+    <Folder Include="Model\" />
+  </ItemGroup>
+</Project>

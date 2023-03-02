@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "i7cTl8+U3TSE6V36nJi1DvF2I7pob50Tbfm1QZun4qQ=",
+  "Source": "ReceiverMicroservice",
+  "BasePath": "_content/ReceiverMicroservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

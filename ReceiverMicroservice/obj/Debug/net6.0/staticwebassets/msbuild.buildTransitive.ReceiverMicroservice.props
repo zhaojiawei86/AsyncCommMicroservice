@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/ReceiverMicroservice.props" />
+</Project>

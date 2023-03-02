@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{2B4EF152-A5BA-47C9-BCC7-94D6F8D52E26}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ReceiverMicroservice PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SenderMicroservice PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReceiverMicroservice/Controllers/EmployeeController.cs">
+    <Files>
+      <File FileName="SenderMicroservice/Model/Employee.cs" Line="12" Column="1" />
+      <File FileName="SenderMicroservice/Service/QueueService.cs" Line="25" Column="2" />
+      <File FileName="SenderMicroservice/appsettings.json" Line="11" Column="2" />
+      <File FileName="SenderMicroservice/Service/IQueueService.cs" Line="10" Column="1" />
+      <File FileName="SenderMicroservice/Program.cs" Line="27" Column="1" />
+      <File FileName="ReceiverMicroservice/Controllers/EmployeeController.cs" Line="11" Column="35" />
+      <File FileName="ReceiverMicroservice/appsettings.json" Line="13" Column="2" />
+      <File FileName="ReceiverMicroservice/Service/IEmployeeQueueReaderService.cs" Line="11" Column="1" />
+      <File FileName="ReceiverMicroservice/Model/Employee.cs" />
+      <File FileName="ReceiverMicroservice/Service/EmployeeQueueReaderService.cs" Line="31" Column="1" />
+      <File FileName="ReceiverMicroservice/Program.cs" />
+      <File FileName="SenderMicroservice/Controllers/EmployeeController.cs" Line="34" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AsyncCommMicroservice" expanded="True" selected="True">
+            <Node name="ReceiverMicroservice" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="Service" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

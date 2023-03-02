@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "49MrqDg+/5PcV35EVQOAUI5OSnkAEvKYt8ftHSsWxp0=",
+  "Source": "SenderMicroservice",
+  "BasePath": "_content/SenderMicroservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
